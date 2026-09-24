@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 08/27/2025
 
 
@@ -64,7 +63,4 @@ I wanted to practice:
 
 ✨ Just a small project, but a good step in learning iOS development.  
 
-
-=======
-# lab-task-squirrel
 >>>>>>> 31e825bad9d735dd20167f79dedc26527288a79d
